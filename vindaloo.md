@@ -1,6 +1,6 @@
 Pork Vindaloo ([Recipe by Anjum Anand](http://www.bbc.co.uk/food/recipes/porkvindaloo_89999))
 
-###Ingredients
+### Ingredients
 - 1 tsp cumin seeds
 - 1 tsp coriander seeds
 - 5 black peppercorns, left whole
@@ -25,7 +25,7 @@ To serve (optional)
 2 handfuls chopped lettuce
 4 tbsp soured cream
 
-###Method
+### Method
 
 1. Using a spice grinder, grind the cumin seeds, coriander seeds, peppercorns, cardamom seeds, cloves and cinnamon to a fine powder.
 
